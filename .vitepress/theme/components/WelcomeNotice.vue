@@ -406,6 +406,7 @@ defineExpose({ open, close });
 
 .btn-primary,
 .btn-secondary {
+  text-align: center;
   padding: 12px 24px;
   border-radius: 8px;
   font-size: 14px;
